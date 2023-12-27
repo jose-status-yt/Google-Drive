@@ -1,3 +1,7 @@
+<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8906506021952813"
+     crossorigin="anonymous"></script>
+</head>
+
 - 👋 Olá, meu nome é @jose-status-yt
 - 👀 Estou interessado ...
 - 🌱 Atualmente estou aprendendo...
